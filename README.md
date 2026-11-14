@@ -15,22 +15,27 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global employee performance management software market is valued at approximately **$3.5B to $4.5B** (projected to exceed $8B by 2030, expanding at ~10–12% CAGR). The sector is **moderately fragmented**—dominated at the top end by enterprise HCM suites (Workday, SAP SuccessFactors, Oracle) while remaining fiercely contested by specialized, high-growth continuous feedback, OKR, and engagement platforms across SMB and mid-market buyers.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Lattice](https://lattice.com/)** | Performance management platform connecting reviews, goals, and 1:1s. **Performance module: $10/seat/month**; Goals & OKRs: $8; Engagement: $4. **Minimum annual agreement: $4,000** . Implementation and change management included at no extra cost . | Performance: **$10/seat/month**; Foundations: $13/seat/month | No free tier; demo via sales |
-| **[15Five](https://www.15five.com/)** | Performance management with continuous feedback, OKRs, and AI-assisted reviews. **Perform: $11/user/month** (annual); Engage: $4; Total Platform: $16. Add-ons priced separately (Compensation: $9–$11; Kona Coach: $19/manager) . | Perform: **$11/user/month** (annual); Engage: $4; Total Platform: $16 | No free tier; demo via sales |
-| **[Leapsome](https://www.leapsome.com/)** | Agentic HR platform with Performance Reviews module. **Reviews: €7/employee/month**; HRIS Foundation free until Dec 31, 2026 (then €7). No setup fees; 1–4 week implementation . | Reviews: **€7/employee/month**; HRIS Foundation: €7 (free promo) | **14-day free trial** for Academy; sandbox after consultation |
-| **[PerformYard](https://www.performyard.com/)** | Performance management with reviews, goals, feedback, and engagement surveys. **$5–$15/person/month** depending on products selected. **No additional fees for onboarding or training** . | **$5–$15/person/month** (annual) | No free tier; demo via sales |
-| **[Small Improvements](https://www.small-improvements.com/)** | Performance reviews with continuous feedback and pulse surveys. **Launch: $3/user/month** (essential reviews); Grow: $6 (360° feedback, 1:1s); Elevate: $9 (all features) . | Launch: **$3/user/month**; Grow: $6; Elevate: $9 | **30-day free trial**; minimum 20 users (Launch/Grow) or 30 (Elevate) |
-| **[Betterworks](https://www.betterworks.com/)** | Performance management, goals, and engagement. Modular per-employee pricing; **multi-year commitments unlock 15–30% lower pricing**; bundled modules yield better blended rates . | Quote-only (negotiated; 20–35% below list possible at scale) | No free tier; demo via sales |
-| **[Culture Amp](https://www.cultureamp.com/)** | Engagement and performance platform with validated survey instruments and benchmarks. Positioned for companies of 200+ wanting rigorous measurement . | Quote-only | No free tier; demo via sales |
+| Product | Company Size (Valuation / Est. Revenue) | Pricing (Starting) | Free Tier / Trial Limits | Description |
+|---|---|---|---|---|
+| **[Lattice](https://lattice.com/)** | **$3.0B valuation** (~$130M+ ARR) | **$10/seat/month** (Performance module; min. $4,000/yr annual agreement) | No permanent free tier; live demo / pilot via sales inquiry | Performance management platform connecting reviews, goals, and 1:1s. Goals & OKRs available at $8; Engagement at $4. Implementation included. |
+| **[Culture Amp](https://www.cultureamp.com/)** | **$1.5B valuation** (~$100M–$175M ARR) | **~$5–$14/employee/month** (Min. annual spend ~$4,500/yr) | No permanent free tier; product walkthrough via sales consultation | Enterprise engagement and performance platform with validated survey instruments, research-backed benchmarks, and 360° reviews for 200+ seat organizations. |
+| **[Leapsome](https://www.leapsome.com/)** | **$800M valuation** (~$35M ARR) | **€7/employee/month** (~$7.50/seat/mo; billed annually) | **14-day free trial** (Full sandbox access; requires sales enablement) | People enablement and performance management platform featuring continuous feedback, review cycles, and competency frameworks. |
+| **[15Five](https://www.15five.com/)** | **$250M–$500M valuation** (~$100M ARR) | **$11/user/month** (Perform tier, billed annually) | **14-day free trial** (Access to core features without permanent free plan) | Performance management system with weekly check-ins, continuous feedback, OKRs, and AI-assisted review drafting. |
+| **[Betterworks](https://www.betterworks.com/)** | **$177M valuation** (~$40M ARR) | **$8/user/month** (Performance tier, billed annually) | No permanent free tier; sandbox evaluation via sales demo | Enterprise-oriented performance management platform built around OKRs, continuous conversations, feedback, and calibration reviews. |
+| **[PerformYard](https://www.performyard.com/)** | **~$95M funding** (~$57M ARR) | **$5/person/month** ($5–$15/person/month based on modules; billed annually) | No permanent free tier; customized live guided demo via sales | Dedicated performance review and goal tracking tool with flexible review workflows, customizable forms, and no extra onboarding fees. |
+| **[Small Improvements](https://www.small-improvements.com/)** | **Bootstrapped** (~$5.6M ARR) | **$3/user/month** (Launch plan, billed annually; min. 20 users) | **30-day free trial** (Full access to reviews & feedback features; min. 20 users for paid plans) | Lightweight, self-serve friendly performance reviews, 360-degree feedback, and 1:1 meeting tracking designed for small-to-midsize businesses. |
 
 ## Open-Source GitHub Projects
 
