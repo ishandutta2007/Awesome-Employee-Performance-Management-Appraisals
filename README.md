@@ -1,74 +1,144 @@
-# Awesome-Employee-Performance-Management-Appraisals
+<div align="center">
 
-## Top Employee Performance Management & Appraisals Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals">
+  <img src="assets/banner.svg" alt="Awesome Employee Performance Management & Appraisals Banner" width="100%" />
+</a>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Review Cycles, Goal Alignment & Continuous Feedback*  
-**Last updated: March 2026**
+# 🚀 Awesome Employee Performance Management & Appraisals
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Employee Performance Management & Appraisals**. These tools help organizations run review cycles, align individual goals with company objectives, and build continuous feedback cultures—covering everything from lightweight review tools to full HRIS-integrated talent suites.
+### 🌟 A Curated Directory of SaaS Platforms, Open-Source HRMS, OKR Systems & 360° Review Tools
 
-**Examples** include Lattice, 15Five, Leapsome, Betterworks, PerformYard, Small Improvements, Culture Amp, and open-source alternatives like Frappe HR and Horilla HRMS (the category leaders).
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals?style=social&color=white" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals?style=flat-square&color=blue" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted performance management, open-source appraisal workflows, and community-driven HR platforms—ideal for organizations seeking data sovereignty and avoiding per-employee pricing that compounds across headcount. The open-source landscape is genuinely functional: **Frappe HR** provides a complete HRMS with appraisal cycles and goal tracking , and **Horilla HRMS** offers performance management within a broader open-source HR suite .
+<p align="center">
+  <b>Keywords:</b> Employee Performance Management, Performance Appraisals, 360 Degree Feedback, Continuous Feedback, OKR Tracking, Open-Source HRMS, Talent Management, Engineering Career Ladders, Review Cycles
+</p>
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global employee performance management software market is valued at approximately **$3.5B to $4.5B** (projected to exceed $8B by 2030, expanding at ~10–12% CAGR). The sector is **moderately fragmented**—dominated at the top end by enterprise HCM suites (Workday, SAP SuccessFactors, Oracle) while remaining fiercely contested by specialized, high-growth continuous feedback, OKR, and engagement platforms across SMB and mid-market buyers.
-
-## SaaS/Hosted Platforms
-
-| Product | Company Size (Valuation / Est. Revenue) | Pricing (Starting) | Free Tier / Trial Limits | Description |
-|---|---|---|---|---|
-| **[Lattice](https://lattice.com/)** | **$3.0B valuation** (~$130M+ ARR) | **$10/seat/month** (Performance module; min. $4,000/yr annual agreement) | No permanent free tier; live demo / pilot via sales inquiry | Performance management platform connecting reviews, goals, and 1:1s. Goals & OKRs available at $8; Engagement at $4. Implementation included. |
-| **[Culture Amp](https://www.cultureamp.com/)** | **$1.5B valuation** (~$100M–$175M ARR) | **~$5–$14/employee/month** (Min. annual spend ~$4,500/yr) | No permanent free tier; product walkthrough via sales consultation | Enterprise engagement and performance platform with validated survey instruments, research-backed benchmarks, and 360° reviews for 200+ seat organizations. |
-| **[Leapsome](https://www.leapsome.com/)** | **$800M valuation** (~$35M ARR) | **€7/employee/month** (~$7.50/seat/mo; billed annually) | **14-day free trial** (Full sandbox access; requires sales enablement) | People enablement and performance management platform featuring continuous feedback, review cycles, and competency frameworks. |
-| **[15Five](https://www.15five.com/)** | **$250M–$500M valuation** (~$100M ARR) | **$11/user/month** (Perform tier, billed annually) | **14-day free trial** (Access to core features without permanent free plan) | Performance management system with weekly check-ins, continuous feedback, OKRs, and AI-assisted review drafting. |
-| **[Betterworks](https://www.betterworks.com/)** | **$177M valuation** (~$40M ARR) | **$8/user/month** (Performance tier, billed annually) | No permanent free tier; sandbox evaluation via sales demo | Enterprise-oriented performance management platform built around OKRs, continuous conversations, feedback, and calibration reviews. |
-| **[PerformYard](https://www.performyard.com/)** | **~$95M funding** (~$57M ARR) | **$5/person/month** ($5–$15/person/month based on modules; billed annually) | No permanent free tier; customized live guided demo via sales | Dedicated performance review and goal tracking tool with flexible review workflows, customizable forms, and no extra onboarding fees. |
-| **[Small Improvements](https://www.small-improvements.com/)** | **Bootstrapped** (~$5.6M ARR) | **$3/user/month** (Launch plan, billed annually; min. 20 users) | **30-day free trial** (Full access to reviews & feedback features; min. 20 users for paid plans) | Lightweight, self-serve friendly performance reviews, 360-degree feedback, and 1:1 meeting tracking designed for small-to-midsize businesses. |
-
-## Open-Source GitHub Projects
-
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Frappe HR](https://github.com/frappe/hrms)** | [![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | **The most complete open-source HRMS with performance management built in.** Part of the Frappe/ERPNext ecosystem. Features: **goal tracking aligned with KRAs**, employee self-evaluation, and **appraisal cycle management**. Integrated with leave, attendance, payroll, and expense claims in a single platform. Python/Vue stack with REST API and mobile app. **Best for organizations already on Frappe/ERPNext** or wanting an integrated HR suite without per-employee fees. |
-| **[Horilla HRMS](https://github.com/horilla/horilla-hr)** | [![Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers) | **Comprehensive open-source HRMS with performance management module.** Features: **goal setting, reviews, and continuous feedback** alongside recruitment, onboarding, attendance, leave, payroll, and asset management. REST API, LDAP integration, and role-based dashboards. **Best for SMBs wanting a full HR suite with performance included** without enterprise pricing . |
-| **[MeepleOS](https://github.com/JustGoscha/meepleOS)** | [![Stars](https://img.shields.io/github/stars/JustGoscha/meepleOS?style=social&color=white)](https://github.com/JustGoscha/meepleOS/stargazers) | **Lightweight performance review tool for engineering managers.** MIT licensed, vanilla JavaScript with zero setup. **Role-specific evaluations** for Software Engineers, Product Managers, and UX/UI Designers, with **level-specific guidance** from junior to senior roles. Auto-save and export results. **Best for engineering leaders wanting a simple, self-contained review framework** without a full HR platform . |
-
-### Additional Strong Open-Source Options
-
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[QuarterMaster](https://socket.dev/npm/package/%40imponenm%2Fquartermaster)** | — | **Automates performance review drafting from GitHub contributions.** CLI tool that fetches merged PRs, code reviews, and commits, then passes them to an LLM (Anthropic, OpenAI, or local Ollama) to generate structured reviews. Aligns contributions to goals from a markdown file. **Not a performance management platform**—a developer-focused review drafting tool . |
-
-**Frameworks for building custom systems**: Choose **Frappe HR** for a complete HRMS with goal tracking and appraisal cycles integrated with payroll , **Horilla HRMS** for a broader HR suite with performance management included , or **MeepleOS** for a lightweight engineering-focused review framework —all without per-employee pricing that scales with headcount.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Performance management platforms handle sensitive employee data including ratings and feedback; enforce strict access controls, manager-only visibility rules, and compliance with applicable employment regulations. **Performance data breaches erode trust irreparably.**
-- **Pricing varies significantly and total cost extends beyond list rates.** **Lattice requires a $4,000 minimum annual agreement** . **15Five's add-ons are priced on three different units** (per user, per employee, per manager)—Kona Coach at $19/manager and Content at $49/manager can add substantial cost . **Leapsome's HRIS Foundation is free only until December 31, 2026** (then €7/employee/month) . **Betterworks requires negotiation**—multi-year commitments and bundled modules unlock 15–30% lower pricing . **Small Improvements is the most transparent entry point** at $3/user/month with a 30-day trial . **Open-source options are functional but less feature-rich**: Frappe HR is the most complete but requires the Frappe ecosystem , and Horilla provides a broader HR suite with performance included . Validate implementation effort, integration requirements, and total cost against your actual headcount before committing.
+</div>
 
 ---
 
-**Made for HR leaders, people operations teams, and managers building performance culture.**  
-Let's make employee performance management and appraisals more open, fair, and growth-oriented.
+## 📖 Overview
+
+Welcome to the definitive, SEO-optimized awesome list tracking notable **SaaS platforms** and **open-source software** for **Employee Performance Management, Appraisals, and Continuous Feedback**.
+
+Whether you are an HR leader designing quarterly appraisal cycles, an engineering manager setting up 360° reviews and career frameworks, or a CTO looking for self-hosted, privacy-first open-source HRMS solutions to prevent exponential per-seat costs, this curated guide offers factual insights, pricing benchmarks, and architecture breakdowns.
+
+---
+
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Engineering Review Drafting & Developer Tools](#️-engineering-review-drafting--developer-tools)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global employee performance management software market is valued at approximately **$3.5B to $4.5B** and is projected to expand beyond **$8B by 2030** (growing at an estimated 10%–12% CAGR).
+
+The sector is **moderately fragmented**:
+* **Enterprise Heavyweights:** Large cloud HCM platforms (Workday, SAP SuccessFactors, Oracle Cloud HCM) capture substantial enterprise spend through bundled workforce suites.
+* **Specialized Point & Modern Suites:** Best-of-breed platforms like Lattice, Culture Amp, and 15Five lead the mid-market with dedicated OKR goal alignment, continuous praise, 1:1 check-ins, and employee sentiment analytics.
+* **Open-Source & Self-Hosted Alternatives:** Increasingly favored by data-sovereign enterprises and engineering organizations seeking to eliminate escalating per-employee subscription fees while maintaining customized review workflows.
+
+---
+
+## ☁️ SaaS & Hosted Platforms
+
+A breakdown of top commercial performance management platforms, complete with verified starting prices, trial availability, and estimated company scales (sorted in descending order of valuation/revenue):
+
+| Product | 🏢 Company Size (Valuation / Est. Revenue) | 💵 Pricing (Starting) | ⏱️ Free Tier / Trial Limits | 📝 Description |
+|---|---|---|---|---|
+| **[Lattice](https://lattice.com/)** | **$3.0B valuation** (~$130M+ ARR) | **$10/seat/month** (Performance module; min. $4,000/yr annual agreement) | No permanent free tier; live demo and customized pilot via sales | Leading performance management platform connecting reviews, real-time goals, 1:1s, and engagement analytics. Implementation support included. |
+| **[Culture Amp](https://www.cultureamp.com/)** | **$1.5B valuation** (~$100M–$175M ARR) | **~$5–$14/employee/month** (Min. annual spend ~$4,500/yr) | No permanent free tier; product walkthrough via sales consultation | Enterprise employee experience platform with research-backed survey instruments, peer benchmarks, and continuous performance reviews tailored for 200+ seat organizations. |
+| **[Leapsome](https://www.leapsome.com/)** | **$800M valuation** (~$35M ARR) | **€7/employee/month** (~$7.50/seat/mo; billed annually) | **14-day free trial** (Full sandbox access; requires sales enablement) | All-in-one people enablement platform unifying performance reviews, 360° feedback, competency frameworks, and OKRs. |
+| **[15Five](https://www.15five.com/)** | **$250M–$500M valuation** (~$100M ARR) | **$11/user/month** (Perform tier, billed annually) | **14-day free trial** (Access to core features without permanent free plan) | Human-centered performance platform featuring weekly check-ins, 360 review cycles, OKRs, and AI-assisted appraisal drafting. |
+| **[Betterworks](https://www.betterworks.com/)** | **$177M valuation** (~$40M ARR) | **$8/user/month** (Performance tier, billed annually) | No permanent free tier; sandbox evaluation via sales demo | Enterprise performance management software centered on transparent OKR goal alignment, regular manager conversations, and talent calibration reviews. |
+| **[PerformYard](https://www.performyard.com/)** | **~$95M funding** (~$57M ARR) | **$5/person/month** ($5–$15/person/month based on modules; billed annually) | No permanent free tier; customized live guided demo via sales | Flexible performance review software offering customizable appraisal forms, continuous feedback, goal tracking, and dedicated customer success. |
+| **[Small Improvements](https://www.small-improvements.com/)** | **Bootstrapped** (~$5.6M ARR) | **$3/user/month** (Launch plan, billed annually; min. 20 users) | **30-day free trial** (Full access to reviews & feedback features; min. 20 users for paid plans) | Transparent, lightweight review tool featuring 360-degree feedback, praise walls, 1:1 agendas, and pulse surveys built for small and growing teams. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Self-hosted, transparent, and extensible alternatives for organizations wanting direct control over sensitive employee appraisal data and immunity from per-user license compounding. Repositories are sorted in descending order of GitHub stars:
+
+| Project | ⭐ Stars | 🛠️ Tech Stack & Focus | 📋 Key Features & Appraisal Capabilities |
+|---|---|---|---|
+| **[Frappe HR](https://github.com/frappe/hrms)** | [![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | Python, Frappe, Vue.js | **The most feature-complete open-source HRMS with native performance appraisals.** Includes goal setting aligned with Key Result Areas (KRAs), customizable multi-stage appraisal cycles, manager/self ratings, and direct payroll integration. |
+| **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** | [![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers) | TypeScript, NestJS, Angular/React | **Open enterprise platform with integrated workforce productivity and HRM.** Features employee performance tracking, KPI achievement metrics, daily timesheets, activity analysis, and recognition awards. |
+| **[Wukong HRM](https://github.com/WuKongOpenSource/Wukong_HRM)** | [![Stars](https://img.shields.io/github/stars/WuKongOpenSource/Wukong_HRM?style=social&color=white)](https://github.com/WuKongOpenSource/Wukong_HRM/stargazers) | Java, Spring Boot, Vue.js | **One-stop open-source human resource management suite.** Provides a dedicated performance appraisal module supporting custom evaluation forms, KPI weighting, approval workflows, and grading distribution. |
+| **[Horilla HRMS](https://github.com/horilla/horilla-hr)** | [![Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers) | Python, Django | **Modern, modular open-source HRMS.** Includes built-in performance tracking, objective goal setting, feedback cycles, onboarding, and attendance with role-based dashboard permissions. |
+| **[OrangeHRM](https://github.com/orangehrm/orangehrm)** | [![Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers) | PHP, Symfony, MySQL | **One of the longest-standing open-source HRM engines.** Features key performance indicators (KPIs), performance trackers, 360-degree reviews, self-appraisals, and comprehensive competency evaluations. |
+| **[Operately](https://github.com/operately/operately)** | [![Stars](https://img.shields.io/github/stars/operately/operately?style=social&color=white)](https://github.com/operately/operately/stargazers) | Elixir, Phoenix, React | **The open-source company operating system.** Focuses on company-wide transparency, OKR management, milestone goal check-ins, and continuous progress updates across teams. |
+| **[Thrive Goals](https://github.com/get-thriving/thrive)** | [![Stars](https://img.shields.io/github/stars/get-thriving/thrive?style=social&color=white)](https://github.com/get-thriving/thrive/stargazers) | TypeScript, Node.js | **Dedicated goals and OKRs tracking system.** Enables teams to set quarterly milestones, align individual targets with organizational pillars, and monitor status check-ins. |
+| **[Thinksy](https://github.com/Thinksy-app/thinksy)** | [![Stars](https://img.shields.io/github/stars/Thinksy-app/thinksy?style=social&color=white)](https://github.com/Thinksy-app/thinksy/stargazers) | TypeScript, Slack API | **Self-hosted Slack app for performance reviews.** Summarizes achievements, wins, and contributions directly from daily team conversations to streamline review prep. |
+| **[Blik](https://github.com/thijsdezoete/blik)** | [![Stars](https://img.shields.io/github/stars/thijsdezoete/blik?style=social&color=white)](https://github.com/thijsdezoete/blik/stargazers) | TypeScript, Next.js | **Self-hosted and open-source anonymous 360° review tool.** Provides frictionless peer-review workflows where colleagues can submit candid, constructive feedback securely. |
+| **[PPSP 360 Evaluation](https://github.com/dolphinotaku/PPSP-360_Degree_Evaluation_System)** | [![Stars](https://img.shields.io/github/stars/dolphinotaku/PPSP-360_Degree_Evaluation_System?style=social&color=white)](https://github.com/dolphinotaku/PPSP-360_Degree_Evaluation_System/stargazers) | PHP, Web | **Web-based e-appraisal platform.** Facilitates 360-degree feedback processes to assess team collaboration, manager feedback, and individual contributor performance. |
+| **[Work Chronicler](https://github.com/tkstang/work-chronicler)** | [![Stars](https://img.shields.io/github/stars/tkstang/work-chronicler?style=social&color=white)](https://github.com/tkstang/work-chronicler/stargazers) | TypeScript, CLI / MCP | **CLI tool and Model Context Protocol (MCP) server.** Pulls merged GitHub PRs and Jira tickets into a searchable markdown log for appraisal self-evaluations and brag documents. |
+| **[MeepleOS](https://github.com/JustGoscha/meepleOS)** | [![Stars](https://img.shields.io/github/stars/JustGoscha/meepleOS?style=social&color=white)](https://github.com/JustGoscha/meepleOS/stargazers) | Vanilla JavaScript | **Lightweight review tool for engineering leaders.** MIT-licensed with zero configuration. Features role-specific and level-guided rubrics for Software Engineers, PMs, and Product Designers. |
+
+---
+
+## 🛠️ Engineering Review Drafting & Developer Tools
+
+Specialized developer-first utilities to automate appraisal drafting from source code repositories and contribution histories:
+
+* **[QuarterMaster](https://socket.dev/npm/package/%40imponenm%2Fquartermaster)**: Automates performance review drafting directly from GitHub PRs, commits, and code review activity using LLMs (Anthropic, OpenAI, or local Ollama) mapped against predetermined milestone goals.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help expand and maintain this performance management directory:
+
+1. **Fork the repository** to your own GitHub account.
+2. **Add or edit entries** in `README.md` following the established table structure.
+3. Ensure every entry includes:
+   - Official product / repository link
+   - Realistic pricing or verified GitHub star badge
+   - Objective, factual description
+4. Submit a **Pull Request** with a concise summary of your addition.
+
+---
+
+## 💖 Support & Community
+
+If you find this repository helpful for evaluating HR tools, planning appraisal systems, or saving money on per-seat SaaS costs, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork it** to maintain your own internal benchmark.
+- 📢 **Share it** on LinkedIn, X/Twitter, or your favorite HR tech community.
+- ☕ **Buy a Coffee / Sponsor**: Support ongoing maintenance directly on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Thank you for your support!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Employee-Performance-Management-Appraisals&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Employee-Performance-Management-Appraisals&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an independent, **community-curated guide** intended for informational purposes and does not constitute an endorsement.
+- **Data Protection & Privacy**: Performance reviews and appraisal records contain sensitive personal data and manager evaluations. Always implement stringent role-based access control (RBAC), end-to-end encryption, and regulatory compliance (GDPR, SOC 2, HIPAA where applicable).
+- **Pricing & Total Cost of Ownership**: SaaS vendors frequently revise packaging tiers and enforce minimum spend thresholds (e.g., Lattice's $4,000 baseline or Culture Amp's enterprise tiers). Always verify current license agreements and implementation charges before signing.
+
+---
+
+<div align="center">
+  <b>Built with ❤️ for People Operations leaders, HR tech architects, and engineering managers worldwide.</b>
+</div>
