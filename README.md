@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Performance-Management-Appraisals?style=flat-square&color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -73,9 +73,9 @@ A breakdown of top commercial performance management platforms, complete with ve
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted, transparent, and extensible alternatives for organizations wanting direct control over sensitive employee appraisal data and immunity from per-user license compounding. Repositories are sorted in descending order of GitHub stars:
+Self-hosted, transparent, and extensible alternatives for organizations wanting direct control over sensitive employee appraisal data and immunity from per-user license compounding. Repositories are sorted in descending order of GitHub_Stars:
 
-| Project | ⭐ Stars | 🛠️ Tech Stack & Focus | 📋 Key Features & Appraisal Capabilities |
+| Project | ⭐ GitHub_Stars | 🛠️ Tech Stack & Focus | 📋 Key Features & Appraisal Capabilities |
 |---|---|---|---|
 | **[Frappe HR](https://github.com/frappe/hrms)** | [![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | Python, Frappe, Vue.js | **The most feature-complete open-source HRMS with native performance appraisals.** Includes goal setting aligned with Key Result Areas (KRAs), customizable multi-stage appraisal cycles, manager/self ratings, and direct payroll integration. |
 | **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** | [![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers) | TypeScript, NestJS, Angular/React | **Open enterprise platform with integrated workforce productivity and HRM.** Features employee performance tracking, KPI achievement metrics, daily timesheets, activity analysis, and recognition awards. |
@@ -108,7 +108,7 @@ Contributions are warmly welcomed! Help expand and maintain this performance man
 2. **Add or edit entries** in `README.md` following the established table structure.
 3. Ensure every entry includes:
    - Official product / repository link
-   - Realistic pricing or verified GitHub star badge
+   - Realistic pricing or verified GitHub Stars_Badge
    - Objective, factual description
 4. Submit a **Pull Request** with a concise summary of your addition.
 
